@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello Serin and ChaeYeon! 
+          Hello Serin, ChaeYeon and Jaeseong! 
         </h1>
     
       </main>
